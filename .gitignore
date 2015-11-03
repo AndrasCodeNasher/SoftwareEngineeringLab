@@ -1,5 +1,14 @@
 # Eclipse
-
+RemoteSystemsTempFiles
+.metadata/
+.settings/
+.classpath
+SuperQuizz/.metadata/
+SuperQuizz/.settings/
+SuperQuizz/.classpath
+SuperQuizz/DS_Store
+SuperQuizz/.project
+SuperQuizz/RemoteSystemsTempFiles
 
 # Intellij
 .idea/
